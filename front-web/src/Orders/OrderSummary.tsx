@@ -1,4 +1,3 @@
-import { CodeFixAction } from "typescript";
 import { formatPrice } from "./helpers";
 
 type Props = {
